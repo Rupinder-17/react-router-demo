@@ -48,7 +48,7 @@ const Dashboard = () => {
         </nav>
       </div>
       
-      <div className="p-6">
+      <div className="p-6 bg-amber-600">
         <Outlet />
       </div>
       
